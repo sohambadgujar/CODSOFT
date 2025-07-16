@@ -1,6 +1,6 @@
 # Task 2 : Calculator 
 
-num1 = float(input("Enter the first numberL:    "))
+num1 = float(input("Enter the first number:    "))
 num2 = float(input("Enter the second number:    "))
 
 # User input 
